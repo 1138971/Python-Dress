@@ -1,5 +1,6 @@
 # Python-Dress
 Atividade avaliativa
+
 Simulador de loja
 
 Nome: Júlio Vinicius Tasca Mendes
